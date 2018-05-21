@@ -6,9 +6,11 @@ To view some of these projects please click me!
 
 ### Markdown
 
-do shell script "netstat -a"
+
 ```markdown
 Syntax highlighted code block
+
+do shell script "netstat -a"
 
 # Header 1
 ## Header 2
