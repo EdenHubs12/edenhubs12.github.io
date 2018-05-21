@@ -2,12 +2,11 @@
 
 On this website you  will find some of the apps,OS's and coding scripts or final results.
 
-To view some of these prjest please click me!
+To view some of these projects please click me!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+do shell script "netstat -a"
 ```markdown
 Syntax highlighted code block
 
