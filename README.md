@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to edenhubs12!
 
-You can use the [editor on GitHub](https://github.com/EdenHubs12/edenhubs12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this website you  will find some of the apps,OS's and coding scripts or final results.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To view some of these prjest please click me!
 
 ### Markdown
 
