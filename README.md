@@ -6,6 +6,25 @@ To view some of these projects please click me!
 
 ### Our Newest Releases
 
+**Learn how to clone a GitHub Repositry Mac OS
+
+
+**Step 1: 
+Open Terminal 
+
+**Step 2:
+Type the following command
+
+
+
+
+
+
+
+**Learn how to clone a GitHub Repositry Windows
+
+
+
 **Mac Developer Tools
 
 View it 
@@ -17,7 +36,7 @@ View it
 
 
 
-###Links
+### Links
 
 
 **Mac Developer Tools: https://goo.gl/sU3vyR
@@ -25,3 +44,7 @@ View it
 
 
 **Fake Virus Mac: https://goo.gl/Weam1G
+
+
+
+
